@@ -24,7 +24,7 @@ USE_PASSAGE: 'server-chan',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'SCT205838TT5StHAGkZkyMXB6jloK1fwB7',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'DKNxZIKXBeIxMdtBJ8MpGZGcgIpRVxSayPyLJx2zZ5E',
+      useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '08-06',
       festivals: [
@@ -43,7 +43,7 @@ USE_PASSAGE: 'server-chan',
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'dI0NsuPgnbuEjKzrJWVabHknMtfs1IfNohAqe60hhv0',
+  CALLBACK_TEMPLATE_ID: '0002',
 
   CALLBACK_USERS: [
     {
